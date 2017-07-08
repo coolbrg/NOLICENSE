@@ -1,2 +1,0 @@
-# NOLICENSE
-No License
